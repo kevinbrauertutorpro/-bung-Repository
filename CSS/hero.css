@@ -1,0 +1,36 @@
+body{
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+header{
+	background-color: #d14635;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1, h2{
+	font-family: 'Montserrat', sans-serif;
+}
+
+header h1{
+	color: white;
+    font-size: 100px;
+
+}
+
+header img{
+	border-radius: 170px;
+    width: 300px;
+    border: 20px solid white;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+main-img{
+	max-width: 100%;
+}
